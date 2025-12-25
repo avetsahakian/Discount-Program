@@ -1,2 +1,2 @@
 # Discount-Program
-I spent the entire day to write this code. Want to figure out the nested if statements, else if, and else as well. I changed the code for so many times, glad that at the end it works. 
+ I spent the entire day writing this code. Want to figure out how “ nested if statements, else if, and else” work. I changed the code so many times; I'm glad that it works in the end.
